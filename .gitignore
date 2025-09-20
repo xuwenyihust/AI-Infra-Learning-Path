@@ -209,4 +209,4 @@ __marimo__/
 # Raw data
 raw/
 
-.pth
+*.pth
